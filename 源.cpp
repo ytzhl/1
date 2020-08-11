@@ -4,6 +4,6 @@ int main ()
 {
 	cout << "qqq" << endl;
 	return 0;
-	efewf
+	
 
 }
